@@ -60,23 +60,23 @@ A corrected sequence for steps 9 onwards, considering the robot should not attem
 GENERATOR GPT
 
 ---
-{ STEP 1, [C], [MOVE_S], [0], 0, [80]} 
-{ STEP 2, [S], [PICK], [1], 0, [80]} 
-{ STEP 3, [S], [MOVE_B], [1], 0, [60]} 
-{ STEP 4, [B], [BUILD], [0], 1, [60]} 
-{ STEP 5, [B], [MOVE_S], [0], 1, [40]} 
-{ STEP 6, [S], [PICK], [1], 1, [40]} 
-{ STEP 7, [S], [MOVE_B], [1], 1, [20]}
-{ STEP 8, [B], [BUILD], [0], 2, [20]} 
-{ STEP 9, [B], [MOVE_C], [0], 2, [0]} 
-{ STEP 10, [C], [CHARGE], [0], 2, [100]} 
-{ STEP 11, [C], [MOVE_S], [0], 2, [80]}
-{ STEP 12, [S], [PICK], [1], 2, [80]} 
-{ STEP 13, [S], [MOVE_B], [1], 2, [60]}
-{ STEP 14, [B], [BUILD], [0], 3, [60]}
-{ STEP 15, [B], [MOVE_S], [0], 3, [40]}
-{ STEP 16, [S], [PICK], [1], 3, [40]}
-{ STEP 17, [S], [MOVE_B], [1], 3, [20]}
-{ STEP 18, [B], [BUILD], [0], 4, [20]}
-{ STEP 19, [B], [MOVE_C], [0], 4, [0]}
-{ STEP 20, [C], [CHARGE], [0], 4, [100]}
+{ STEP 1, [C], [MOVE_S], [0], 0, [80]}  
+{ STEP 2, [S], [PICK], [1], 0, [80]}   
+{ STEP 3, [S], [MOVE_B], [1], 0, [60]}   
+{ STEP 4, [B], [BUILD], [0], 1, [60]}   
+{ STEP 5, [B], [MOVE_S], [0], 1, [40]}   
+{ STEP 6, [S], [PICK], [1], 1, [40]}   
+{ STEP 7, [S], [MOVE_B], [1], 1, [20]}  
+{ STEP 8, [B], [BUILD], [0], 2, [20]}   
+{ STEP 9, [B], [MOVE_C], [0], 2, [0]}   
+{ STEP 10, [C], [CHARGE], [0], 2, [100]}   
+{ STEP 11, [C], [MOVE_S], [0], 2, [80]}  
+{ STEP 12, [S], [PICK], [1], 2, [80]}   
+{ STEP 13, [S], [MOVE_B], [1], 2, [60]}  
+{ STEP 14, [B], [BUILD], [0], 3, [60]}  
+{ STEP 15, [B], [MOVE_S], [0], 3, [40]}  
+{ STEP 16, [S], [PICK], [1], 3, [40]}  
+{ STEP 17, [S], [MOVE_B], [1], 3, [20]}  
+{ STEP 18, [B], [BUILD], [0], 4, [20]}  
+{ STEP 19, [B], [MOVE_C], [0], 4, [0]}  
+{ STEP 20, [C], [CHARGE], [0], 4, [100]}  
